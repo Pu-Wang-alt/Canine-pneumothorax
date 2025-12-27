@@ -15,8 +15,8 @@ Automatic diagnosis of canine pneumothorax is challenged by data scarcity and th
 
 This synergy of generative segmentation and first-principles statistical analysis yields a highly accurate and interpretable diagnostic system.
 
-![Method Overview](assets/overview.png)
-*(Note: Please upload the architecture diagram from your paper to an `assets` folder)*
+![Method Overview](assets/fig1.png)(assets/fig2.png)
+
 
 ## ✨ Key Features
 
